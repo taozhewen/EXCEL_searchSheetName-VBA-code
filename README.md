@@ -1,6 +1,8 @@
 # 查找EXCEL表名的宏
 
-导入方法：
+主要功能：当一个EXCEL文件中包含了较多的sheet时，用以快速检索并跳转至某一sheet。
+
+导入方法： 
 * 打开EXCEL的Visual Basic 窗口 （快捷键 Alt + F11)
 * 文件→导入文件
 
